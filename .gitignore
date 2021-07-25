@@ -3,3 +3,4 @@ landmark_project/data/*
 *-workspace
 .vscode/*
 .ipynb_checkpoints/*
+*.pt
