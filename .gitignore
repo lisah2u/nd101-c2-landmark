@@ -4,3 +4,4 @@ landmark_project/data/*
 .vscode/*
 .ipynb_checkpoints/*
 *.pt
+landmark-test.ipynb
