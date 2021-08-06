@@ -1,5 +1,6 @@
 landmark_images
 landmark_project/data/*
+data/*
 *-workspace
 .vscode/*
 .ipynb_checkpoints/*
